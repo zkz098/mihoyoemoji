@@ -25,3 +25,4 @@ const liteEmoji = readImages('webp', ['八重神子', '可莉', '安柏', '提�
 fs.writeFileSync('owo.png.json', JSON.stringify(pngEmoji));
 fs.writeFileSync('owo.webp.json', JSON.stringify(webpEmoji));
 fs.writeFileSync('owo.lite.json', JSON.stringify(liteEmoji));
+console.log('Build owo.json successd');

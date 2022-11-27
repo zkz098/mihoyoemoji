@@ -9,6 +9,9 @@
   },
   "author": "zkz098",
   "license": "MIT",
+  "scripts": {
+    "build": "tsc;node index.js"
+  },
   "bugs": {
     "url": "https://github.com/zkz098/mihoyoemoji/issues"
   },
