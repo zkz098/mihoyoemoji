@@ -1,0 +1,712 @@
+{
+  "颜文字": {
+    "type": "emoticon",
+    "container": [
+      {
+        "icon": "OωO",
+        "text": "Author: DIYgod"
+      },
+      {
+        "icon": "|´・ω・)ノ",
+        "text": "Hi"
+      },
+      {
+        "icon": "ヾ(≧∇≦*)ゝ",
+        "text": "开心"
+      },
+      {
+        "icon": "(☆ω☆)",
+        "text": "星星眼"
+      },
+      {
+        "icon": "（╯‵□′）╯︵┴─┴",
+        "text": "掀桌"
+      },
+      {
+        "icon": "￣﹃￣",
+        "text": "流口水"
+      },
+      {
+        "icon": "(/ω＼)",
+        "text": "捂脸"
+      },
+      {
+        "icon": "∠( ᐛ 」∠)＿",
+        "text": "给跪"
+      },
+      {
+        "icon": "(๑•̀ㅁ•́ฅ)",
+        "text": "Hi"
+      },
+      {
+        "icon": "→_→",
+        "text": "斜眼"
+      },
+      {
+        "icon": "୧(๑•̀⌄•́๑)૭",
+        "text": "加油"
+      },
+      {
+        "icon": "٩(ˊᗜˋ*)و",
+        "text": "有木有WiFi"
+      },
+      {
+        "icon": "(ノ°ο°)ノ",
+        "text": "前方高能预警"
+      },
+      {
+        "icon": "(´இ皿இ｀)",
+        "text": "我从未见过如此厚颜无耻之人"
+      },
+      {
+        "icon": "⌇●﹏●⌇",
+        "text": "吓死宝宝惹"
+      },
+      {
+        "icon": "(ฅ´ω`ฅ)",
+        "text": "已阅留爪"
+      },
+      {
+        "icon": "(╯°A°)╯︵○○○",
+        "text": "去吧大师球"
+      },
+      {
+        "icon": "φ(￣∇￣o)",
+        "text": "太萌惹"
+      },
+      {
+        "icon": "ヾ(´･ ･｀｡)ノ\"",
+        "text": "咦咦咦"
+      },
+      {
+        "icon": "( ง ᵒ̌皿ᵒ̌)ง⁼³₌₃",
+        "text": "气呼呼"
+      },
+      {
+        "icon": "(ó﹏ò｡)",
+        "text": "我受到了惊吓"
+      },
+      {
+        "icon": "Σ(っ °Д °;)っ",
+        "text": "什么鬼"
+      },
+      {
+        "icon": "( ,,´･ω･)ﾉ\"(´っω･｀｡)",
+        "text": "摸摸头"
+      },
+      {
+        "icon": "╮(╯▽╰)╭ ",
+        "text": "无奈"
+      },
+      {
+        "icon": "o(*////▽////*)q ",
+        "text": "脸红"
+      },
+      {
+        "icon": "＞﹏＜",
+        "text": ""
+      },
+      {
+        "icon": "( ๑´•ω•) \"(ㆆᴗㆆ)",
+        "text": ""
+      }
+    ]
+  },
+  "Emoji": {
+    "type": "emoji",
+    "container": [
+      {
+        "icon": "😂",
+        "text": ""
+      },
+      {
+        "icon": "😀",
+        "text": ""
+      },
+      {
+        "icon": "😅",
+        "text": ""
+      },
+      {
+        "icon": "😊",
+        "text": ""
+      },
+      {
+        "icon": "🙂",
+        "text": ""
+      },
+      {
+        "icon": "🙃",
+        "text": ""
+      },
+      {
+        "icon": "😌",
+        "text": ""
+      },
+      {
+        "icon": "😍",
+        "text": ""
+      },
+      {
+        "icon": "😘 ",
+        "text": ""
+      },
+      {
+        "icon": "😜",
+        "text": ""
+      },
+      {
+        "icon": "😝",
+        "text": ""
+      },
+      {
+        "icon": "😏",
+        "text": ""
+      },
+      {
+        "icon": "😒",
+        "text": ""
+      },
+      {
+        "icon": "🙄",
+        "text": ""
+      },
+      {
+        "icon": "😳 ",
+        "text": ""
+      },
+      {
+        "icon": "😡",
+        "text": ""
+      },
+      {
+        "icon": "😔",
+        "text": ""
+      },
+      {
+        "icon": "😫",
+        "text": ""
+      },
+      {
+        "icon": "😱",
+        "text": ""
+      },
+      {
+        "icon": "😭",
+        "text": ""
+      },
+      {
+        "icon": "💩",
+        "text": ""
+      },
+      {
+        "icon": "👻",
+        "text": ""
+      },
+      {
+        "icon": "🙌",
+        "text": ""
+      },
+      {
+        "icon": "🖕",
+        "text": ""
+      },
+      {
+        "icon": "👍",
+        "text": ""
+      },
+      {
+        "icon": "👫",
+        "text": ""
+      },
+      {
+        "icon": "👬",
+        "text": ""
+      },
+      {
+        "icon": "👭",
+        "text": ""
+      },
+      {
+        "icon": "🌚",
+        "text": ""
+      },
+      {
+        "icon": "🌝",
+        "text": ""
+      },
+      {
+        "icon": "🙈",
+        "text": ""
+      },
+      {
+        "icon": "💊",
+        "text": ""
+      },
+      {
+        "icon": "😶",
+        "text": ""
+      },
+      {
+        "icon": "🙏",
+        "text": ""
+      },
+      {
+        "icon": "🍦",
+        "text": ""
+      },
+      {
+        "icon": "🍉",
+        "text": ""
+      },
+      {
+        "icon": "😣",
+        "text": ""
+      }
+    ]
+  },
+  "Bilibili": {
+    "type": "image",
+    "container": [
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/6ea59c827c414b4a2955fe79e0f6fd3dcd515e24.png\">",
+        "text": "tv_doge"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/a8111ad55953ef5e3be3327ef94eb4a39d535d06.png\">",
+        "text": "tv_亲亲"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/bb690d4107620f1c15cff29509db529a73aee261.png\">",
+        "text": "tv_偷笑"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/180129b8ea851044ce71caf55cc8ce44bd4a4fc8.png\">",
+        "text": "tv_再见"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/b9cbc755c2b3ee43be07ca13de84e5b699a3f101.png\">",
+        "text": "tv_冷漠"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/34ba3cd204d5b05fec70ce08fa9fa0dd612409ff.png\">",
+        "text": "tv_发怒"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/34db290afd2963723c6eb3c4560667db7253a21a.png\">",
+        "text": "tv_发财"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/9e55fd9b500ac4b96613539f1ce2f9499e314ed9.png\">",
+        "text": "tv_可爱"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/09dd16a7aa59b77baa1155d47484409624470c77.png\">",
+        "text": "tv_吐血"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/fe1179ebaa191569b0d31cecafe7a2cd1c951c9d.png\">",
+        "text": "tv_呆"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/9f996894a39e282ccf5e66856af49483f81870f3.png\">",
+        "text": "tv_呕吐"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/241ee304e44c0af029adceb294399391e4737ef2.png\">",
+        "text": "tv_困"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/1f0b87f731a671079842116e0991c91c2c88645a.png\">",
+        "text": "tv_坏笑"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/093c1e2c490161aca397afc45573c877cdead616.png\">",
+        "text": "tv_大佬"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/23269aeb35f99daee28dda129676f6e9ea87934f.png\">",
+        "text": "tv_大哭"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/d04dba7b5465779e9755d2ab6f0a897b9b33bb77.png\">",
+        "text": "tv_委屈"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/a37683fb5642fa3ddfc7f4e5525fd13e42a2bdb1.png\">",
+        "text": "tv_害羞"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/7cfa62dafc59798a3d3fb262d421eeeff166cfa4.png\">",
+        "text": "tv_尴尬"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/70dc5c7b56f93eb61bddba11e28fb1d18fddcd4c.png\">",
+        "text": "tv_微笑"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/90cf159733e558137ed20aa04d09964436f618a1.png\">",
+        "text": "tv_思考"
+      },
+      {
+        "icon": "<img src=\"https://owo.imaegoo.com/bilibili/0d15c7e2ee58e935adc6a7193ee042388adc22af.png\">",
+        "text": "tv_惊吓"
+      }
+    ]
+  },
+  "alus": {
+    "type": "image",
+    "container": [
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/高兴.png\">",
+        "text": "alus_高兴"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/黑线.png\">",
+        "text": "alus_黑线"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/鼓掌.png\">",
+        "text": "alus_鼓掌"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/不出所料.png\">",
+        "text": "alus_不出所料"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/亲亲.png\">",
+        "text": "alus_亲亲"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/狂汗.png\">",
+        "text": "alus_狂汗"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/献花.png\">",
+        "text": "alus_献花"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/赞一个.png\">",
+        "text": "alus_赞一个"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/击掌.png\">",
+        "text": "alus_击掌"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/脸红.png\">",
+        "text": "alus_脸红"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/得意.png\">",
+        "text": "alus_得意"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/惊喜.png\">",
+        "text": "alus_惊喜"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/想一想.png\">",
+        "text": "alus_想一想"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/蜡烛.png\">",
+        "text": "alus_蜡烛"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/装大款.png\">",
+        "text": "alus_装大款"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/观察.png\">",
+        "text": "alus_观察"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/口水.png\">",
+        "text": "alus_口水"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/吐.png\">",
+        "text": "alus_吐"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/吐舌.png\">",
+        "text": "alus_吐舌"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/吐血倒地.png\">",
+        "text": "alus_吐血倒地"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/不说话.png\">",
+        "text": "alus_不说话"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/不高兴.png\">",
+        "text": "alus_不高兴"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/中刀.png\">",
+        "text": "alus_中刀"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/中枪.png\">",
+        "text": "alus_中枪"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/呲牙.png\">",
+        "text": "alus_呲牙"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/咽气.png\">",
+        "text": "alus_咽气"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/哭泣.png\">",
+        "text": "alus_哭泣"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/喜极而泣.png\">",
+        "text": "alus_喜极而泣"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/喷水.png\">",
+        "text": "alus_喷水"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/中指.png\">",
+        "text": "alus_中指"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/喷血.png\">",
+        "text": "alus_喷血"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/坐等.png\">",
+        "text": "alus_坐等"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/害羞.png\">",
+        "text": "alus_害羞"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/小眼睛.png\">",
+        "text": "alus_小眼睛"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/尴尬.png\">",
+        "text": "alus_尴尬"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/愤怒.png\">",
+        "text": "alus_愤怒"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/扇耳光.png\">",
+        "text": "alus_扇耳光"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/投降.png\">",
+        "text": "alus_投降"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/抠鼻.png\">",
+        "text": "alus_抠鼻"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/抽烟.png\">",
+        "text": "alus_抽烟"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/无奈.png\">",
+        "text": "alus_无奈"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/无所谓.png\">",
+        "text": "alus_无所谓"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/无语.png\">",
+        "text": "alus_无语"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/暗地观察.png\">",
+        "text": "alus_暗地观察"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/期待.png\">",
+        "text": "alus_期待"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/欢呼.png\">",
+        "text": "alus_欢呼"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/汗.png\">",
+        "text": "alus_汗"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/深思.png\">",
+        "text": "alus_深思"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/献黄瓜.png\">",
+        "text": "alus_献黄瓜"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/便便.png\">",
+        "text": "alus_便便"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/内伤.png\">",
+        "text": "alus_内伤"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/皱眉.png\">",
+        "text": "alus_皱眉"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/看不见.png\">",
+        "text": "alus_看不见"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/看热闹.png\">",
+        "text": "alus_看热闹"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/瞅你.png\">",
+        "text": "alus_瞅你"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/肿包.png\">",
+        "text": "alus_肿包"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/邪恶.png\">",
+        "text": "alus_邪恶"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/锁眉.png\">",
+        "text": "alus_锁眉"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/长草.png\">",
+        "text": "alus_长草"
+      },
+      {
+        "icon": "<img src=\"https://cdn.jsdelivr.net/npm/alus/阴暗.png\">",
+        "text": "alus_阴暗"
+      }
+    ]
+  },
+  "原神-分包1": {
+    "type": "image",
+    "container": [
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/1.png\">", "text": "1" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/2.png\">", "text": "2" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/3.png\">", "text": "3" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/4.png\">", "text": "4" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/5.png\">", "text": "5" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/6.png\">", "text": "6" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/7.png\">", "text": "7" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/8.png\">", "text": "8" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/9.png\">", "text": "9" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/10.png\">", "text": "10" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/11.png\">", "text": "11" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/12.png\">", "text": "12" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/13.png\">", "text": "13" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/14.png\">", "text": "14" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/15.png\">", "text": "15" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/16.png\">", "text": "16" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/17.png\">", "text": "17" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/18.png\">", "text": "18" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/19.png\">", "text": "19" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/20.png\">", "text": "20" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/21.png\">", "text": "21" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/22.png\">", "text": "22" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/23.png\">", "text": "23" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/24.png\">", "text": "24" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/25.png\">", "text": "25" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/26.png\">", "text": "26" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/27.png\">", "text": "27" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/28.png\">", "text": "28" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/29.png\">", "text": "29" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/30.png\">", "text": "30" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/31.png\">", "text": "31" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/32.png\">", "text": "32" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/33.png\">", "text": "33" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/34.png\">", "text": "34" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/35.png\">", "text": "35" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/36.png\">", "text": "36" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/37.png\">", "text": "37" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/38.png\">", "text": "38" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/39.png\">", "text": "39" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/40.png\">", "text": "40" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/41.png\">", "text": "41" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/42.png\">", "text": "42" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/43.png\">", "text": "43" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/44.png\">", "text": "44" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/45.png\">", "text": "45" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/46.png\">", "text": "46" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/47.png\">", "text": "47" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/48.png\">", "text": "48" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/49.png\">", "text": "49" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/50.png\">", "text": "50" }
+    ]
+  },
+  "原神-分包2": {
+    "type": "image",
+    "container": [
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/51.png\">", "text": "51" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/52.png\">", "text": "52" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/53.png\">", "text": "53" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/54.png\">", "text": "54" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/55.png\">", "text": "55" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/56.png\">", "text": "56" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/57.png\">", "text": "57" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/58.png\">", "text": "58" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/59.png\">", "text": "59" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/60.png\">", "text": "60" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/61.png\">", "text": "61" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/62.png\">", "text": "62" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/63.png\">", "text": "63" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/64.png\">", "text": "64" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/65.png\">", "text": "65" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/66.png\">", "text": "66" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/67.png\">", "text": "67" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/68.png\">", "text": "68" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/69.png\">", "text": "69" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/70.png\">", "text": "70" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/71.png\">", "text": "71" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/72.png\">", "text": "72" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/73.png\">", "text": "73" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/74.png\">", "text": "74" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/75.png\">", "text": "75" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/76.png\">", "text": "76" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/77.png\">", "text": "77" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/78.png\">", "text": "78" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/79.png\">", "text": "79" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/80.png\">", "text": "80" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/81.png\">", "text": "81" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/82.png\">", "text": "82" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/83.png\">", "text": "83" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/84.png\">", "text": "84" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/85.png\">", "text": "85" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/86.png\">", "text": "86" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/87.png\">", "text": "87" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/88.png\">", "text": "88" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/89.png\">", "text": "89" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/90.png\">", "text": "90" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/91.png\">", "text": "91" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/92.png\">", "text": "92" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/93.png\">", "text": "93" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/94.png\">", "text": "94" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/95.png\">", "text": "95" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/96.png\">", "text": "96" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/97.png\">", "text": "97" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/98.png\">", "text": "98" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/99.png\">", "text": "99" },
+      {"icon":  "<img style=\"width:8em\" src=\"https://cdn.jsdelivr.net/npm/mihoyoemoji/100.png\">", "text": "100" }
+    ]
+  }
+}

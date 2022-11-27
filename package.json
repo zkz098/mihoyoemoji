@@ -1,0 +1,31 @@
+{
+  "name": "mihoyoemoji",
+  "version": "2.0.0",
+  "description": "mihoyo's emoji",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zkz098/mihoyoemoji.git"
+  },
+  "author": "zkz098",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zkz098/mihoyoemoji/issues"
+  },
+  "homepage": "https://github.com/zkz098/mihoyoemoji#readme",
+  "devDependencies": {
+    "@types/jsonminify": "^0.4.1",
+    "@types/node": "^18.11.9",
+    "@typescript-eslint/eslint-plugin": "^5.43.0",
+    "@typescript-eslint/parser": "^5.43.0",
+    "eslint": "^8.27.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.5.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "typescript": "^4.9.3"
+  },
+  "dependencies": {
+    "jsonminify": "^0.4.2"
+  }
+}
